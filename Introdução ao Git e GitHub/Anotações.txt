@@ -1,0 +1,11 @@
+Comandos Básicos Git Bash
+
+ls = lista os arquivos no diretório atual
+ctrl + l = limpa o terminal
+git status = status do diretório
+git add * = coloca todos os arquivos no index/stage
+git commit -m "" = coloca a descrição do commit entre as "" e faz o commit
+git push origin main = empurra o repositório local para o repositório remoto
+git pull origin main = puxa o repositório remoto para o seu repositório local
+git clone = clona uma cópia de um repositório para o seu novo repositório local
+
